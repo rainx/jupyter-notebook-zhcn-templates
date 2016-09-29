@@ -10,8 +10,14 @@ Jupyter Notebook的中文汉化模板
 
 ### 安装
 
-```python
-python setup.py install
+```bash
+
+> pip3 install git+https://github.com/rainx/jupyter-notebook-zhcn-templates.git
+
+或者
+
+> git clone https://github.com/rainx/jupyter-notebook-zhcn-templates.git
+> python setup.py install
 
 ```
 ### 配置
